@@ -38,11 +38,12 @@ The dataset contains call center performance metrics across four quarters (Q1–
 
 ## Files
 - `CallCenterDashboard.xlsx` – Contains both the dataset and the interactive dashboard  
-- `screenshots/dashboard.png` – Screenshot of the interactive Excel dashboard
+- `dashboard.png` – Screenshot of the interactive Excel dashboard
 
 ## Skills Demonstrated
 - Excel dashboard development
 - Data lookup using XLOOKUP
 - Dynamic reporting with dropdown filters
 - Data visualization for business reporting
+
 
