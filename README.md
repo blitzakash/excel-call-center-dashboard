@@ -1,100 +1,46 @@
-\# Excel Call Center Performance Dashboard
-
-
-
-\## Overview
-
-
-
-This project is an interactive Excel dashboard that analyzes quarterly call center performance across departments.
-
-
-
-The dashboard allows users to select a department from a dropdown menu and dynamically updates the chart to show performance across Q1, Q2, Q3, and Q4.
-
-
-
-\## Tools Used
-
-
-
-\* Microsoft Excel
-
-\* XLOOKUP
-
-\* Data Validation (Dropdown)
-
-\* Dynamic Charts
-
-
-
-\## Features
-
-
-
-\* Interactive department selection
-
-\* Automatic chart updates using formulas
-
-\* Visualization of quarterly performance metrics
-
-\* Simple business reporting dashboard
-
-
-
-\## Dataset
-
-
-
-The dataset contains call center performance data for multiple departments across four quarters.
-
-
-
-Example departments:
-
-
-
-\* Help Desk
-
-\* Marketing
-
-\* IT
-
-\* Procurement
-
-\* Supply Chain
-
-\* Accounting
-
-
-
-\## Dashboard Preview
-
-
-
-!\[Dashboard Screenshot](screenshots/dashboard.png)
-
-
-
-\## File
-
-
-
-`CallCenterDashboard.xlsx` – contains the dataset and the interactive dashboard.
-
-
-
-\## Skills Demonstrated
-
-
-
-\* Excel dashboard development
-
-\* Data lookup using XLOOKUP
-
-\* Dynamic reporting with dropdown filters
-
-\* Data visualization in Excel
-
-
-
+# Excel Call Center Performance Dashboard
+
+## Project Overview
+This project presents an **interactive Excel dashboard** designed to analyze quarterly call center performance across different departments.
+
+Users can select a department from a dropdown menu, and the dashboard dynamically updates the chart to display the corresponding quarterly performance.
+
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
+## Key Features
+- Interactive **department selection** using Data Validation dropdown
+- Dynamic data retrieval using **XLOOKUP**
+- Automatic chart updates based on user selection
+- Clear visualization of quarterly performance metrics
+
+## Tools & Skills Used
+- Microsoft Excel
+- XLOOKUP
+- Data Validation (Dropdown)
+- Dynamic Charts
+- Dashboard Design
+
+## Dataset
+The dataset contains call center performance metrics across four quarters (Q1–Q4) for multiple departments including:
+
+- Help Desk
+- Marketing
+- IT
+- Procurement
+- Supply Chain
+- Accounting
+
+## How the Dashboard Works
+1. Select a department from the dropdown menu.
+2. XLOOKUP retrieves the corresponding quarterly values from the dataset.
+3. The chart updates automatically to reflect the selected department’s performance.
+
+## File Included
+`CallCenterDashboard.xlsx` – Contains both the dataset and the interactive dashboard.
+
+## Skills Demonstrated
+- Excel dashboard development
+- Data lookup using XLOOKUP
+- Dynamic reporting with dropdown filters
+- Data visualization for business reporting
